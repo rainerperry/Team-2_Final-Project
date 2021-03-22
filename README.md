@@ -1,0 +1,1 @@
+An analysis and visualization of the World Happiness Report including:latest dat afor ech country, a map showing the changes in index between 2015-2019, and an interactive chart for current top and bottom 5 countries for all criteria
